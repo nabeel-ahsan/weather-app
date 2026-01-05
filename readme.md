@@ -23,7 +23,10 @@ A simple weather application built with **HTML, CSS, and JavaScript** that fetch
 - **HTML / CSS** – Structure and styling, responsive design with mobile-friendly tweaks.
 - **JavaScript (Vanilla)** – DOM manipulation, event handling, async/await, and error handling.
 - **APIs** – Open-Meteo Geocoding and Weather APIs.
+- 
+## Demo
 
+Check it live here: [Your GitHub Pages Link](https://nabeel-ahsan.github.io/weather-app/)
 
 ## How to Use
 
