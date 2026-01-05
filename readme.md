@@ -26,7 +26,7 @@ A simple weather application built with **HTML, CSS, and JavaScript** that fetch
 - 
 ## Demo
 
-Check it live here: [Your GitHub Pages Link](https://nabeel-ahsan.github.io/weather-app/)
+Check it live here: [Link](https://nabeel-ahsan.github.io/weather-app/)
 
 ## How to Use
 
